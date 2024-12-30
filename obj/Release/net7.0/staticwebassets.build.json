@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5SB+n7WTUQtBaLDI2CY9fls/B1XFjEnMwbWjyPj6dTs=",
+  "Source": "VinamAppWebAPI",
+  "BasePath": "_content/VinamAppWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

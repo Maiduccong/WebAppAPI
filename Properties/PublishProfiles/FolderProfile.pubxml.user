@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Public Source\VinamAppWebAPI</_PublishTargetUrl>
+    <History>True|2024-12-24T08:42:59.0201531Z||;True|2024-12-21T11:41:22.7955929+07:00||;True|2024-12-21T08:42:25.4113306+07:00||;True|2024-12-20T15:23:59.3986738+07:00||;True|2024-12-20T13:17:41.7466256+07:00||;True|2024-01-13T13:25:33.1947772+07:00||;True|2024-01-06T09:39:09.4973879+07:00||;True|2023-12-27T14:51:14.9062349+07:00||;True|2023-12-27T14:51:06.2923784+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
